@@ -29,48 +29,53 @@ Experiences
 
 - Part of an *Change the bank* initiative as a Devops Coach and modern way of working challenger.
 - Manage existing tooling and put new solutions in place.
-- Help others teams on Tooling best practices (Git, Jenkins, Mobile Testing). 
+- Help others teams on Tooling best practices (Git, Jenkins, Mobile Testing).
+
 > **Technical Environment**: Jenkins, Git, Objective-C, Android, Java
 
 **Lampiris** *Web & Software developer* __Aug 2014 to Oct 2015__
 
 - Java developer within the IT team and participating to the development of a typical ERP in the energy environment.
-- Developing modules for Lampiris ERP. 
+- Developing modules for Lampiris ERP.
 - Developing integration modules as OSGi bundles to handle communications of externals/internals modules
 - Configuration of integration environment as Jenkins, Gerrit, Docker
 - Provide tooling support to others teams on Jenkins, Git, TDD
-> **Technical Environment**: Java 7, Camel, Spring 3, Drupal, ESB Karaf, Kafka, Git, Jenkins, Maven, Gerrit 
 
+> **Technical Environment**: Java 7, Camel, Spring 3, Drupal, ESB Karaf, Kafka, Git, Jenkins, Maven, Gerrit
+
+<br/>
 **Compuzz SPRL** *Web & Software developer* __Apr 2013 to Aug 2014__
 
 - Developping personalization software to be integrated in a webstore or webshop. It offers an end-to-end service from the client to the manufacturer. It’s a B2B solution created with and for Office supplier.
 - Back-end development in Java 7, Spring Data
 - Generating Pdfs from private structured format of Compuzz. Xml, SVG, FXG
-- Manipulating and converting PDF 
+- Manipulating and converting PDF
 - Manipulating Bmp to Vectorial
 - Creating the architecture of the document generation from Front-End to back-end
 - Creating REST architecture to provide an API to simplify the integration in the webshops
 - Leading the project on the outsourcing part of the application
-- Managing an outsourced team for the development of the new front end in Javascript with BackboneJs 
+- Managing an outsourced team for the development of the new front end in Javascript with BackboneJs
 - Integrating SCRUM management
+
 > **Technical Environment**: Java 6, Netbeans IDE, Spring 4 (Core, Data, Boot), Hibernate 3, Maven 3, Soap UI, REST HATOAS api, BackboneJS, Html5
 
 **Aricent** *Software Engineer* __Apr 2012 to Mar 2013__
-	
-- Developing a universal communication platform. Video-Audio Chat, File Exchange, Calendar and contact sharing between various systems like Exchange and Google calendar. 
+
+- Developing a universal communication platform. Video-Audio Chat, File Exchange, Calendar and contact sharing between various systems like Exchange and Google calendar.
 - Back-end development with the Jainslee API (Java API for network application)
-- Developing an interface tool between some Microsoft Exchange Server 
-- Interface used as a proxy between several Microsoft Exchange or Google Calendar 
+- Developing an interface tool between some Microsoft Exchange Server
+- Interface used as a proxy between several Microsoft Exchange or Google Calendar
 - Communication done by Http and Soap request/responses
-- Building a test environment in Soap UI 
+- Building a test environment in Soap UI
 > **Technical Environment** Eclipse IDE, Jainslee support, Java 6/7, Soap UI, Wireshark, Microsoft Windows Server 2010, Microsoft Exchange 2010 deployment, Redhat, CentOS
-    
+
 **Avanade Belgium** *Software Developer* __Nov 2010 to Oct 2011__
-	
+
 - Integrating the Main Office development team, and helping on some projects.
-- Developing Webpart for Microsoft Office Sharepoint 2007 & 2010 
-- Developing Silverlight plugin for Microsoft CRM Dynamics 2011 
-- Developing Windows Phone Application (geolocalization, interface, Azure, WCF) 
+- Developing Webpart for Microsoft Office Sharepoint 2007 & 2010
+- Developing Silverlight plugin for Microsoft CRM Dynamics 2011
+- Developing Windows Phone Application (geolocalization, interface, Azure, WCF)
+
 > **Technical Environment** .NET, Visual Studio 2010, Microsoft Office Sharepoint 2007 & 2010, Microsoft CRM Dynamics 2011
 
 ------
@@ -78,14 +83,16 @@ Experiences
 ### Projects
 
 - **CoreOS Clair** Maintainer of open-source project [CoreOS Clair](https://github.com/coreos/clair)
-  
+
   Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers.
+
   > **Technical Environment**: Open-source community, Github, Golang, PostgreSQL, BoltDB, CoreOS, Kubernetes, Docker
-    
+
 * **Hyperclair**
   CLI for Clair, [Hyperclair](https://github.com/wemanity-belgium/hyperclair) (on going integration in Clair)
-  
+
   Hyperclair is a lightweight command-line tool doing the bridge between Registries as Docker Hub, Docker Registry or Quay.io, and the CoreOS vulnerability tracker, Clair. It's easily integrated in your CI/CD pipeline and Hyperclair will play as reverse proxy for authentication.
+	
   > **Technical Environment**: Open-source community, Github, Golang, CoreOS, Kubernetes, Docker
 
 ------
@@ -105,4 +112,3 @@ Experiences
 
 - __2012__ - **Master in Computer Science** - SUPINFO International (Belgium)    
 - __2010__ - **Bachelor in Industrial Computer science** - HELP Rennequim Sualem (Belgium)    
-
