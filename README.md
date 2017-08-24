@@ -6,7 +6,7 @@ Skills
 ------
 
 - **Methodology**: Agile (Scrum, Kanban),Software craftmanship (XP, clean code, TDD, BDD)
-- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, AWS, Docker Cloud
+- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, AWS, Docker Cloud, Gitlab
 - **Systems**: Linux (Centos, Debian, Ubuntu), Mac OSX
 - **Tooling**: Git master, Jenkins 2.0
 - **Development**: Golang, Java 8, Spring 4 (Boot, Data, Rest)
@@ -22,16 +22,45 @@ Personal Skills
 - Stress-resistant
 - Fun
 
+-----
+
+### Projects
+
+- **CoreOS Clair** Maintainer of open-source project [CoreOS Clair](https://github.com/coreos/clair)
+
+  Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers.
+
+  > **Technical Environment**: Open-source community, Github, Golang, PostgreSQL, BoltDB, CoreOS, Kubernetes, Docker
+
+* **Clairctl**
+  CLI for Clair, [Clairctl](https://github.com/jgsqware/clairctl)
+
+  Hyperclair is a lightweight command-line tool doing the bridge between Registries as Docker Hub, Docker Registry or Quay.io, and the CoreOS vulnerability tracker, Clair. It's easily integrated in your CI/CD pipeline and Hyperclair will play as reverse proxy for authentication.
+	
+  > **Technical Environment**: Open-source community, Github, Golang, CoreOS, Kubernetes, Docker
+
+------
+
 Experiences
 ------
 
-**BNP Paribas Fortis** *Devops consultant* __Oct 2015 to present__
+**Lampiris** *Devops consultant* __Jan 2017 to present__
+
+- Devops Coach and modern way of working challenger.
+- Manage existing tooling and put new solutions in place (Gitlab from idea to production).
+- Developing Energy related java solution
+- Help others teams on Tooling best practices (Git, Jenkins, Mobile Testing).
+
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible
+
+**BNP Paribas Fortis** *Devops consultant* __Oct 2015 to Dec 2016__
 
 - Part of an *Change the bank* initiative as a Devops Coach and modern way of working challenger.
 - Manage existing tooling and put new solutions in place.
 - Help others teams on Tooling best practices (Git, Jenkins, Mobile Testing).
+- Lead the transition to Jenkins Pipelines and Shared Librairies
 
-> **Technical Environment**: Jenkins, Git, Objective-C, Android, Java
+> **Technical Environment**: Jenkins, Git, Objective-C, Android, Java, Groovy
 
 **Lampiris** *Web & Software developer* __Aug 2014 to Oct 2015__
 
@@ -43,7 +72,6 @@ Experiences
 
 > **Technical Environment**: Java 7, Camel, Spring 3, Drupal, ESB Karaf, Kafka, Git, Jenkins, Maven, Gerrit
 
-<br/>
 **Compuzz SPRL** *Web & Software developer* __Apr 2013 to Aug 2014__
 
 - Developping personalization software to be integrated in a webstore or webshop. It offers an end-to-end service from the client to the manufacturer. It’s a B2B solution created with and for Office supplier.
@@ -80,30 +108,14 @@ Experiences
 
 ------
 
-### Projects
-
-- **CoreOS Clair** Maintainer of open-source project [CoreOS Clair](https://github.com/coreos/clair)
-
-  Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers.
-
-  > **Technical Environment**: Open-source community, Github, Golang, PostgreSQL, BoltDB, CoreOS, Kubernetes, Docker
-
-* **Hyperclair**
-  CLI for Clair, [Hyperclair](https://github.com/wemanity-belgium/hyperclair) (on going integration in Clair)
-
-  Hyperclair is a lightweight command-line tool doing the bridge between Registries as Docker Hub, Docker Registry or Quay.io, and the CoreOS vulnerability tracker, Clair. It's easily integrated in your CI/CD pipeline and Hyperclair will play as reverse proxy for authentication.
-	
-  > **Technical Environment**: Open-source community, Github, Golang, CoreOS, Kubernetes, Docker
-
-------
-
 ### Talks
 
 * **CoreOSFest 2016 Berlin** *CoreOS Clair integration made easy with HyperClair* [Slides](http://jgsqware.github.io/hyperclair-demo)
 * **Voxxed Luxembourg 2016** *CoreOS Clair integration made easy with HyperClair*
 * CoreOS Meetup Paris
 * Docker Meetup Brussels
-* Wecraft Meetup Brussels
+* Docker Meetup Liège
+* Wecraft Meetup Brussels (Gitlab talks)
 * Wajug Meetup Liège
 
 ------
