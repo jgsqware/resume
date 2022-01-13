@@ -1,6 +1,6 @@
 # Julien Garcia Gonzalez
-## Devops facilitator and Backend developer
-##### [garciagonzalez.julien@gmail.com](mailto:garciagonzalez.julien@gmail.com) - +32 471 53 15 13 - [jgsqware.github.com](http://jgsqware.github.com)
+## Devops facilitator and Cloud Engineer
+##### [julien@jgsquare.io](mailto:julien@jgsquare.io) - +32 471 53 15 13
 
 Skills
 ------
@@ -43,6 +43,33 @@ Personal Skills
 
 Experiences
 ------
+**JG Square CEO** *Full Stack Engineer* __March 2018 to present__
+
+- Develop various website in React.js, Vue.js, and backend in Node.js for Startup, Professional, School,
+etc...
+- Consultant on Cloud technology embracement
+
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations
+
+**NRB** *Cloud Engineer* __Jan 2020 to present__
+
+- Working with big Enterprise to integrate properly on Cloud Native solution
+- Develop needed tooling to help the customer experience and the team to be more productive
+- Develop and architect a Cloud Data Platform on AWS
+- Do the CICD pipeline, witgh Github Action and AWS CDK for infrastructure as code
+- Run EKS clusters
+- Manage multiple accounts with AWS Control Tower
+
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations, AWS Lambda, EC2, Cloudformation, Terraform
+
+**Giant Swarm** *Solution Engineer* __Sept 2017 to Jan 2020__
+
+- Working with Big Enterprise to integrate properly on Cloud Native solution
+- Develop needed tooling to help the customer experience and the team to be more productive
+- Run production kubernetes clusters on AWS for big enterprises
+- Envolve in the security process, with CIS Compliance, PenTesting, Hardening
+
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations, AWS Lambda, EC2, Cloudformation, Terraform
 
 **Lampiris** *Devops consultant* __Jan 2017 to present__
 
