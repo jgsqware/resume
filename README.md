@@ -6,7 +6,7 @@ Skills
 ------
 
 - **Methodology**: Agile (Scrum, Kanban),Software craftmanship (XP, clean code, TDD, BDD)
-- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, AWS, Docker Cloud, Gitlab
+- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, Terraform, AWS, Azure, Docker Cloud, Gitlab
 - **Systems**: Linux (Centos, Debian, Ubuntu), Mac OSX
 - **Tooling**: Git master, Jenkins 2.0
 - **Development**: Golang, Java 8, Spring 4 (Boot, Data, Rest)
@@ -49,7 +49,7 @@ Experiences
 etc...
 - Consultant on Cloud technology embracement
 
-> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, Terraform, All cloud provider, On-Prem installations
 
 **NRB** *Cloud Engineer* __Jan 2020 to present__
 
@@ -59,6 +59,10 @@ etc...
 - Do the CICD pipeline, witgh Github Action and AWS CDK for infrastructure as code
 - Run EKS clusters
 - Manage multiple accounts with AWS Control Tower
+- Architectural implementation in Terraform against various Cloud Provider (Azure, AWS)
+  - Automatic provisioning of infrastructure (inlc network segmentation, security and audit best practices, server roll automation, kubernetes management), either on AWS and Azure
+  - Managing the CIS Compliancy as much as it could though GitOps and Infrastructure as code
+
 
 > **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations, AWS Lambda, EC2, Cloudformation, Terraform
 
@@ -68,6 +72,8 @@ etc...
 - Develop needed tooling to help the customer experience and the team to be more productive
 - Run production kubernetes clusters on AWS for big enterprises
 - Envolve in the security process, with CIS Compliance, PenTesting, Hardening
+- Providing production infrastructure grade on AWS and Azure with terraform, including IAM management, auto-scaling Compute, and networking
+- Managing the CIS Compliancy as much as it could though GitOps and Infrastructure as code
 
 > **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, All cloud provider, On-Prem installations, AWS Lambda, EC2, Cloudformation, Terraform
 
@@ -77,6 +83,7 @@ etc...
 - Manage existing tooling and put new solutions in place (Gitlab from idea to production).
 - Developing Energy related java solution
 - Help others teams on Tooling best practices (Git, Jenkins, Mobile Testing).
+- Providing on-demand CI/CD infrastructure, with terraform and Helm
 
 > **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible
 
