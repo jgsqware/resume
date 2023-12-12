@@ -1,15 +1,15 @@
 # Julien Garcia Gonzalez
-## Devops facilitator and Cloud Engineer
+## Devops facilitator and Cloud Engineer - Freelance
 ##### [julien@jgsquare.io](mailto:julien@jgsquare.io) - +32 471 53 15 13
 
 Skills
 ------
 
 - **Methodology**: Agile (Scrum, Kanban),Software craftmanship (XP, clean code, TDD, BDD)
-- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, Terraform, AWS, Azure, Docker Cloud, Gitlab
+- **DevOps**: Docker, CoreOS (Clair, CoreOS, Kubernetes), Vagrant, Chef, Ansible, Terraform, Vault, AWS, Azure, Docker Cloud, Gitlab
 - **Systems**: Linux (Centos, Debian, Ubuntu), Mac OSX
-- **Tooling**: Git master, Jenkins 2.0
-- **Development**: Golang, Java 8, Spring 4 (Boot, Data, Rest)
+- **Tooling**: Git master, Jenkins 2.0, Gitlab CI, Team-city, Azure Devops
+- **Development**: Golang, Python, Groovy, Java 8, Spring 4 (Boot, Data, Rest)
 
 Personal Skills
 -------
@@ -49,9 +49,17 @@ Experiences
 etc...
 - Consultant on Cloud technology embracement
 
-> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, Terraform, All cloud provider, On-Prem installations
+> **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, Terraform, Vagrant, AWS, Azure, GCP, On-Prem installations
 
-**NRB** *Cloud Engineer* __Jan 2020 to present__
+**Undisclosed company** *Cloud and CI Engineer* __Sept 2021 to present__
+- Working with big Enterprise to integrate properly on Cloud Native solution
+- Do the CICD pipeline, with various technologies, like Cloudbees Jenkins, Team-city or Gitlab CI
+- Architectural implementation in Terraform against various Cloud Provider (Azure, AWS)
+  - Automatic provisioning of infrastructure (inlc network segmentation, security and audit best practices, server roll automation, kubernetes management), either on AWS and Azure
+  - Managing the CIS Compliancy as much as it could though GitOps and Infrastructure as code
+- Drive DevOps best practice through the company
+
+**NRB** *Cloud Engineer* __Jan 2020 to Sept 2021__
 
 - Working with big Enterprise to integrate properly on Cloud Native solution
 - Develop needed tooling to help the customer experience and the team to be more productive
