@@ -45,9 +45,35 @@ Experiences
 ------
 **JG Square CEO** *Full Stack Engineer* __March 2018 to present__
 
-- Develop various website in React.js, Vue.js, and backend in Node.js for Startup, Professional, School,
-etc...
-- Consultant on Cloud technology embracement
+- Collaborated with large-scale enterprises to seamlessly transition to Cloud Native solutions:
+  - Engaged with enterprise clients to understand their specific needs and challenges in migrating to Cloud Native architectures.
+  - Conducted thorough assessments of existing systems and proposed tailored Cloud Native solutions to enhance scalability, reliability, and efficiency.
+  - Worked closely with stakeholders to ensure smooth integration and adoption of Cloud Native technologies within the organization's ecosystem.
+
+- Implemented robust Continuous Integration and Continuous Deployment (CI/CD) pipelines utilizing various technologies:
+  - Orchestrated CI/CD pipelines using industry-leading tools such as Cloudbees Jenkins, TeamCity, and GitLab CI.
+  - Designed and automated build, test, and deployment processes to accelerate software delivery cycles and improve overall software quality.
+  - Customized CI/CD workflows to suit the specific requirements and technology stacks of each project.
+
+- Architected infrastructure solutions using Terraform across multiple Cloud Providers (Azure, AWS):
+  - Designed and implemented infrastructure as code (IaC) solutions using Terraform to provision and manage resources on both Azure and AWS platforms.
+  - Automated the provisioning of infrastructure components including network segmentation, security configurations, and audit best practices.
+  - Streamlined server rollouts and Kubernetes cluster management through Terraform configurations, ensuring consistency and scalability across environments.
+
+- Ensured compliance with industry security standards (CIS) through GitOps and Infrastructure as Code practices:
+  - Implemented GitOps methodologies to enforce compliance with CIS benchmarks and other security standards across infrastructure configurations.
+  - Leveraged Infrastructure as Code principles to maintain a version-controlled repository of infrastructure definitions, allowing for traceability and auditability.
+  - Worked closely with security teams to address vulnerabilities and mitigate risks proactively within the CI/CD pipeline and infrastructure configurations.
+
+- Championed DevOps best practices to drive organizational efficiency and collaboration:
+  - Advocated for the adoption of DevOps principles and methodologies to bridge the gap between development and operations teams.
+  - Introduced automation and standardized processes to improve release velocity, deployment frequency, and overall software quality.
+  - Provided mentorship and training to teams on DevOps tools, practices, and culture to foster a continuous improvement mindset.
+
+- Managed and optimized production-grade Kubernetes clusters for mission-critical workloads:
+  - Oversaw the deployment, configuration, and ongoing management of Kubernetes clusters in production environments.
+  - Implemented monitoring, logging, and alerting solutions to ensure the reliability and performance of Kubernetes clusters.
+  - Conducted performance tuning and optimization to maximize resource utilization and minimize downtime for critical applications.
 
 > **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, Terraform, Vagrant, AWS, Azure, GCP, On-Prem installations
 
