@@ -6,10 +6,10 @@ Skills
 ------
 
 - **Methodology**: Agile (Scrum, Kanban),Software craftmanship (XP, clean code, TDD, BDD)
-- **DevOps**: Docker, CoreOS Clair, Kubernete, Vagrant, Chef, Ansible, Terraform, Vault, AWS, Azure, Docker Cloud, Gitlab
+- **DevOps**: Docker, CoreOS Clair, Kubernete, Vagrant, Chef, Ansible, Terraform, Vault, AWS, Azure, Google Cloud, Gitlab
 - **Systems**: Linux (Centos, Debian, Ubuntu), Mac OSX
 - **Tooling**: Git master, Jenkins 2.0, Gitlab CI, Team-city, Azure Devops
-- **Development**: Golang, Python, Groovy, Java 8, Spring 4 (Boot, Data, Rest)
+- **Development**: Bash, Golang, Python, Groovy, Java 8, Spring 4 (Boot, Data, Rest)
 
 Personal Skills
 -------
@@ -77,7 +77,7 @@ Experiences
 
 > **Technical Environment**: Gitlab, Gitlab-CI, Java, Go, Ansible, Go, Kubernetes, React, Terraform, Vagrant, AWS, Azure, GCP, On-Prem installations
 
-**Undisclosed company** *Cloud and CI Engineer* __Sept 2021 to Dec 2023__
+**Undisclosed company** *Cloud and CI Engineer* __Sept 2021 to present__
 - Working with big Enterprise to integrate properly on Cloud Native solution
 - Do the CICD pipeline, with various technologies, like Cloudbees Jenkins, Team-city or Gitlab CI
 - Architectural implementation in Terraform against various Cloud Provider (Azure, AWS)
