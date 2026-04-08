@@ -1,5 +1,5 @@
 # Julien Garcia Gonzalez
-## DevOps Facilitator & Cloud Engineer | Freelance
+## DevSecOps & AI Platform Engineer | Freelance
 
 **Contact:** [julien@jgsquare.io](mailto:julien@jgsquare.io) • +32 471 53 15 13
 
@@ -7,7 +7,7 @@
 
 ## Professional Summary
 
-DevOps facilitator and Cloud Engineer with 10+ years experience architecting scalable cloud-native solutions for enterprise clients. Specializes in infrastructure automation, CI/CD pipelines, and Kubernetes orchestration across AWS, Azure, and GCP. Proven track record of leading cloud migrations and establishing production-grade DevOps practices.
+DevSecOps facilitator and AI Platform Engineer with 10+ years experience architecting scalable, secure cloud-native solutions for enterprise clients. Specializes in infrastructure automation, CI/CD pipelines, Kubernetes orchestration across AWS, Azure, and GCP, and enterprise AI platform deployment. Proven track record of leading cloud migrations, establishing production-grade DevSecOps practices, and building secure AI/LLM platforms with full observability and governance.
 
 ---
 
