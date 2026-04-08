@@ -46,28 +46,39 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 
 ## Professional Experience
 
-### **JG Square CEO** | *Full Stack Engineer* | **Mar 2018 - Present**
+### **JG Square CEO** | *DevSecOps & AI Platform Engineer* | **Mar 2018 - Present**
 
-**Cloud-Native Transformation Leader**
+**Cloud-Native & AI Platform Transformation Leader**
 - Architected and executed cloud-native migrations for large-scale enterprises
 - Implemented Infrastructure as Code using Terraform across AWS, Azure, and GCP
 - Designed multi-environment CI/CD pipelines with GitLab CI, Jenkins, and TeamCity
 - Established CIS compliance frameworks through GitOps and automated security scanning
 - Managed production Kubernetes clusters with 99.9% uptime for mission-critical workloads
 
+**Enterprise AI Platform Setup:**
+- Deployed enterprise LLM platforms with MCP (Model Context Protocol) for secure tool orchestration
+- Implemented Langfuse for full LLM observability: prompt tracing, cost tracking, and evaluation pipelines
+- Designed context isolation architecture to prevent data leakage between tenants and prompt injection attacks
+- Built PII detection and redaction pipelines integrated into LLM request/response flows
+- Set up model serving infrastructure (vLLM, Ollama) with API gateway, rate limiting, and token budgeting
+- Established AI governance: model registry, A/B prompt evaluation, audit logging, and RBAC on AI endpoints
+- Integrated Claude Agent SDK and MCP servers for enterprise agentic workflows with guardrails
+
 **Key Achievements:**
 - Reduced deployment time by 85% through automated CI/CD implementation
 - Achieved CIS Level 1 compliance across all infrastructure components
 - Led successful cloud migrations for 15+ enterprise clients
+- Delivered production-ready AI platforms with full observability and security compliance
 
-### **Undisclosed Enterprise Client** | *Cloud & CI Engineer* | **Sep 2021 - Present**
+### **Undisclosed Enterprise Client** | *DevSecOps & AI Engineer* | **Sep 2021 - Present**
 
-**Enterprise Cloud Integration Specialist**
+**Enterprise Cloud & AI Integration Specialist**
 - Orchestrated cloud-native solution adoption for Fortune 500 enterprise
 - Architected multi-cloud infrastructure with Terraform (AWS/Azure)
 - Implemented automated provisioning including network segmentation and security hardening
-- Established DevOps best practices across development teams
+- Established DevSecOps best practices: shift-left security, SBOM generation, image signing (Cosign), policy-as-code (OPA/Gatekeeper)
 - Managed production-grade Kubernetes clusters serving 10,000+ users
+- Designed and deployed internal AI assistant platform with MCP integration and context security controls
 
 ### **NRB** | *Cloud Engineer* | **Jan 2020 - Sep 2021**
 
@@ -128,8 +139,9 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 
 - **Agile:** Scrum, Kanban, continuous improvement
 - **Quality:** Software craftsmanship, TDD, BDD, clean code
-- **Security:** Zero-trust architecture, compliance automation
-- **Leadership:** Team mentoring, DevOps transformation, technical evangelism
+- **Security:** Zero-trust architecture, compliance automation, shift-left security, threat modeling
+- **AI Governance:** Responsible AI practices, prompt security, data privacy, model lifecycle management
+- **Leadership:** Team mentoring, DevSecOps transformation, technical evangelism
 
 ---
 
