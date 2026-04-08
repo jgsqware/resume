@@ -18,14 +18,22 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - **IaC:** Terraform, OpenTofu, AWS CDK, CloudFormation
 - **Containers:** Docker, Kubernetes (EKS, managed clusters), CoreOS
 
-### **DevOps & Automation**
+### **DevSecOps & Automation**
 - **CI/CD:** GitLab CI, Jenkins 2.0, TeamCity, Azure DevOps, GitHub Actions
 - **Configuration:** Ansible, Chef, Terraform, Helm
 - **Scripting:** Bash, Perl, Python, Groovy
-- **Security:** Vault, CIS Compliance, CoreOS Clair
+- **Security:** Vault, SOPS, CIS Compliance, CoreOS Clair, OWASP, Trivy, Checkov
+- **Supply Chain:** SBOM generation, image signing (Cosign/Sigstore), policy-as-code (OPA/Gatekeeper)
+
+### **AI & LLM Platform**
+- **Orchestration:** MCP (Model Context Protocol), LangChain, LangGraph, Claude Agent SDK
+- **Observability:** Langfuse, LangSmith, prompt tracing & cost tracking
+- **Security:** Context isolation, prompt injection mitigation, PII filtering, guardrails
+- **Serving:** vLLM, Ollama, API gateway with rate limiting & token budgeting
+- **Governance:** Model registry, A/B evaluation, audit logging, RBAC on AI endpoints
 
 ### **Development & Languages**
-- **Primary:** Go, Java 8, Spring Framework (Boot, Data, REST)
+- **Primary:** Go, Python, Java 8, Spring Framework (Boot, Data, REST)
 - **Scripting:** Bash, Perl (system automation, log processing), Python
 - **Web:** React, JavaScript, HTML5
 
