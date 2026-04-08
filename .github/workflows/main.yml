@@ -20,6 +20,11 @@ jobs:
         with:
           input_path: 'README.md'
           output_dir: pdfs
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Julien Garcia Gonzalez - Resume
+          path: pdfs/README.pdf
       - if: github.event_name == 'release' && github.event.action == 'published'
         name: Get Release
         id: release
