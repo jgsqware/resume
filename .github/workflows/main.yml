@@ -37,3 +37,14 @@ jobs:
           asset_path: "pdfs/README.pdf"
           asset_name: 'Julien Garcia Gonzalez - Resume.pdf'
           asset_content_type: application/pdf
+      - if: startsWith(github.ref, 'refs/tags/')
+        name: Rename PDF for release
+        run: cp "pdfs/README.pdf" "pdfs/Julien Garcia Gonzalez - Resume.pdf"
+      - if: startsWith(github.ref, 'refs/tags/')
+        name: Create Release from tag and attach PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          files: pdfs/Julien Garcia Gonzalez - Resume.pdf
+          fail_on_unmatched_files: true
