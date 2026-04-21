@@ -8,6 +8,9 @@ on:
 env:
   GITHUB_TOKEN: ${{ github.token }}
 
+permissions:
+  contents: write
+
 jobs:
   publish-and-release:
     runs-on: ubuntu-latest
