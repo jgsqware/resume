@@ -42,7 +42,7 @@ jobs:
           asset_content_type: application/pdf
       - if: startsWith(github.ref, 'refs/tags/') || startsWith(github.ref, 'refs/heads/release/')
         name: Rename PDF for release
-        run: cp "pdfs/README.pdf" "pdfs/Julien Garcia Gonzalez - Resume.pdf"
+        run: sudo cp "pdfs/README.pdf" "pdfs/Julien Garcia Gonzalez - Resume.pdf"
       - if: startsWith(github.ref, 'refs/tags/')
         name: Create Release from tag and attach PDF
         uses: softprops/action-gh-release@v2
