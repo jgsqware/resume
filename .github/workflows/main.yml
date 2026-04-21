@@ -37,7 +37,7 @@ jobs:
           asset_path: "pdfs/README.pdf"
           asset_name: 'Julien Garcia Gonzalez - Resume.pdf'
           asset_content_type: application/pdf
-      - if: startsWith(github.ref, 'refs/tags/')
+      - if: startsWith(github.ref, 'refs/tags/') || startsWith(github.ref, 'refs/heads/release/')
         name: Rename PDF for release
         run: cp "pdfs/README.pdf" "pdfs/Julien Garcia Gonzalez - Resume.pdf"
       - if: startsWith(github.ref, 'refs/tags/')
@@ -46,5 +46,18 @@ jobs:
         with:
           name: ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
+          files: pdfs/Julien Garcia Gonzalez - Resume.pdf
+          fail_on_unmatched_files: true
+      - if: startsWith(github.ref, 'refs/heads/release/')
+        name: Extract release name
+        id: relname
+        run: echo "name=${GITHUB_REF#refs/heads/release/}" >> "$GITHUB_OUTPUT"
+      - if: startsWith(github.ref, 'refs/heads/release/')
+        name: Create Release from branch and attach PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ steps.relname.outputs.name }}
+          tag_name: ${{ steps.relname.outputs.name }}
+          target_commitish: ${{ github.sha }}
           files: pdfs/Julien Garcia Gonzalez - Resume.pdf
           fail_on_unmatched_files: true
