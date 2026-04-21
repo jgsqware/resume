@@ -32,6 +32,12 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - **Serving:** vLLM, Ollama, API gateway with rate limiting & token budgeting
 - **Governance:** Model registry, A/B evaluation, audit logging, RBAC on AI endpoints
 
+### **FinOps & Cloud Cost Management**
+- **Tooling:** AWS Cost Explorer, Azure Cost Management, GCP Billing, Kubecost, OpenCost, Infracost
+- **Optimization:** Reserved Instances, Savings Plans, Spot instances, rightsizing, autoscaling strategies
+- **Governance:** Tagging strategies, showback/chargeback, budget alerts, FOCUS specification
+- **LLM FinOps:** Token budgeting, per-team cost allocation, model tier routing for cost efficiency
+
 ### **Development & Languages**
 - **Primary:** Go, Python, Java 8, Spring Framework (Boot, Data, REST)
 - **Scripting:** Bash, Perl (system automation, log processing), Python
@@ -141,6 +147,7 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - **Quality:** Software craftsmanship, TDD, BDD, clean code
 - **Security:** Zero-trust architecture, compliance automation, shift-left security, threat modeling
 - **AI Governance:** Responsible AI practices, prompt security, data privacy, model lifecycle management
+- **FinOps:** Cost visibility, waste reduction, cloud cost governance, FinOps Framework principles
 - **Leadership:** Team mentoring, DevSecOps transformation, technical evangelism
 
 ---
