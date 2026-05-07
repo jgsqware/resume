@@ -39,9 +39,9 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - **LLM FinOps:** Token budgeting, per-team cost allocation, model tier routing for cost efficiency
 
 ### **Development & Languages**
-- **Primary:** Go, Python, Java 8, Spring Framework (Boot, Data, REST)
+- **Primary:** Go, Python, C# (.NET 8), Java 8, Spring Framework (Boot, Data, REST)
 - **Scripting:** Bash, Perl (system automation, log processing), Python
-- **Web:** React, JavaScript, HTML5
+- **Web:** React, JavaScript, HTML5, Blazor
 
 ### **Systems & Tools**
 - **OS:** Linux (CentOS, Debian, Ubuntu), macOS
@@ -82,6 +82,7 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - Orchestrated cloud-native solution adoption for Fortune 500 enterprise
 - Architected multi-cloud infrastructure with Terraform (AWS/Azure)
 - Implemented automated provisioning including network segmentation and security hardening
+- Led migration of legacy .NET Framework monolith to .NET 8 microservices running on Kubernetes (EKS), including CI/CD pipeline redesign with NuGet private feeds and container-based build agents
 - Established DevSecOps best practices: shift-left security, SBOM generation, image signing (Cosign), policy-as-code (OPA/Gatekeeper)
 - Managed production-grade Kubernetes clusters serving 10,000+ users
 - Designed and deployed internal AI assistant platform with MCP integration and context security controls
@@ -112,9 +113,9 @@ DevSecOps facilitator and AI Platform Engineer with 10+ years experience archite
 - Implemented Git workflows and automated testing strategies
 
 **Software Developer** - Compuzz SPRL, Aricent, Avanade Belgium
-- Full-stack development with Java, Spring, and REST APIs
-- Enterprise integration using ESB, Camel, and messaging systems
-- Microsoft ecosystem development (SharePoint, CRM Dynamics, Silverlight)
+- Full-stack development with Java, Spring, C# .NET, and REST APIs
+- Enterprise integration using ESB, Camel, WCF, and messaging systems
+- Microsoft ecosystem development (ASP.NET MVC, SharePoint, CRM Dynamics, Silverlight)
 
 ---
 
