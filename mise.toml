@@ -1,0 +1,11 @@
+[tools]
+node = "lts"
+
+[tasks.pdf]
+description = "Build README.md → pdfs/README.pdf (matches CI output)"
+run = """
+mkdir -p pdfs
+npx --yes md-to-pdf@5 README.md
+mv README.pdf pdfs/README.pdf
+echo "Wrote pdfs/README.pdf"
+"""
