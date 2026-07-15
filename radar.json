@@ -1,0 +1,13 @@
+{
+  "id": "resume",
+  "name": "CV — Julien G.",
+  "family": "business",
+  "kind": "other",
+  "stack": "Markdown → PDF (CI)",
+  "summary": "CV DevSecOps/AI Platform en Markdown, build PDF via GitHub Actions",
+  "visibility": "local",
+  "exposes": null,
+  "subtools": [],
+  "depends_on": [],
+  "links": []
+}
